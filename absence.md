@@ -27,4 +27,6 @@ Your time off will be one of the following types, depending on why you were off 
 **+**: To use these types of time off, you'll need to follow additional processes to help us collect the information required by the government. See our separate handbook pages, or speak to HR.
 **U**: This type of time off is unpaid. (Some types of time off without this notation may still be at reduced pay.)
 
+## Absent Without Leave
+
 If your absence doesn't meet the criteria for a type of time off, you are Absent Without Leave (AWL). Being AWL results in disciplinary action. You could also be AWL if you don't tell us in advance, in the right way, or after supplying the right documents.
