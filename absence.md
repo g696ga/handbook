@@ -1,6 +1,14 @@
 To run the business, we need our people in place and available at the times we expect. All of our rules about absence surround this principle.
 
-# Types of time off
+## Asking for time off
+
+When you need time off, the best person to speak with is your manager. They'll work out a plan and let you know if any evidence needs to be handed in. Remember, if you're off-site, you must call (don't email). In exceptional circumstances, your manager may not be able to give you any time off if you need it; but they will try to be flexible, and you can appeal to HR if required.
+
+## Absent Without Leave
+
+If your absence doesn't meet the criteria for a type of time off, you are Absent Without Leave (AWL). Being AWL results in disciplinary action. You could also be AWL if you don't tell us in advance, in the right way, or after supplying the right documents.
+
+## Types of time off
 
 Your time off will be one of the following types, depending on why you were off (the **criteria**):
 
@@ -26,7 +34,3 @@ Your time off will be one of the following types, depending on why you were off 
 
 **+**: To use these types of time off, you'll need to follow additional processes to help us collect the information required by the government. See our separate handbook pages, or speak to HR.
 **U**: This type of time off is unpaid. (Some types of time off without this notation may still be at reduced pay.)
-
-## Absent Without Leave
-
-If your absence doesn't meet the criteria for a type of time off, you are Absent Without Leave (AWL). Being AWL results in disciplinary action. You could also be AWL if you don't tell us in advance, in the right way, or after supplying the right documents.
